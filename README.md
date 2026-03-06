@@ -13,7 +13,7 @@
 
 # 🚀 About Me
 
-🎓 Computer Science student passionate about learning new technologies and building real-world projects.
+🎓 B-Tech IT student passionate about learning new technologies and building real-world projects.
 
 💻 Interested in *Software Development and Web Development*
 
