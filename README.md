@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidhi Pandit</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
+<h3 align="center">B-Tech IT Student | Aspiring Software Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Aspiring+Software+Developer;Learning+Web+Development;Always+Learning+New+Things&center=true&width=500&height=45">
