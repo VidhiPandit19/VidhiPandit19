@@ -2,7 +2,7 @@
 <h3 align="center">B-Tech IT Student | Aspiring Software Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=B-Tech+IT+Student;MERN +Developer;Aspiring+Software+Developer;Learning+Web+Development;Always+Learning+New+Things&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Aspiring+Software+Developer;Learning+Web+Development;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
